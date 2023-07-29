@@ -43,7 +43,6 @@ function onTextAreaInput(evt) {
 // }
 
 
-// ЧИ  ТРЕБА ЦЕ:
 function populateTextarea() { 
     const savedMessage = localStorage.getItem(STORAGE_KEY);
 
